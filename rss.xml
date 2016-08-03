@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Demo Blog]]></title>
+        <description><![CDATA[Demo Blog]]></description>
+        <link>https://thegrid.ai/demo-blog/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 03 Aug 2016 10:02:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/demo-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Apple Challenges Government Demand To Crack Drug Dealer's iPhone In New York]]></title>
+            <description><![CDATA[<article><h1>Apple Challenges Government Demand To Crack Drug Dealer's iPhone In New York</h1><p>Apple has formally challenged the U.S. Department of Justice over another locked iPhone and the encrypted information it contains. Owned by an accused methamphetamine distributor in Brooklyn, the iPhone 5s is believed to contain evidence of a drug conspiracy, investigators said. The government claims that its technicians can't penetrate the locked iPhone and require Apple's help to get inside.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e2b247bd692aae20a13780b947564a437b6201a.jpg"></article>]]></description>
+            <link>http://www.buzzfeed.com/hamzashaban/apple-challenges-government-demand-to-crack-drug-dealers-iph#.lyz519Bpy</link>
+            <guid isPermaLink="false">04efbf8e-2a9b-405d-a302-7922f85b61b3</guid>
+            <pubDate>Wed, 03 Aug 2016 10:01:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Coolest Tech at SXSW Interactive This Year]]></title>
+            <description><![CDATA[<article><h1>The Coolest Tech at SXSW Interactive This Year</h1><p>Everything from lifelike humanoids to VR-recording apps at SXSW Interactive 2016.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/914b8f2c193ba23977d43dd2927ac45c36498fd3.jpg"></article>]]></description>
+            <link>https://www.thrillist.com/tech/nation/the-coolest-tech-at-sxsw-interactive-2016/tech</link>
+            <guid isPermaLink="false">cae2f87b-86c6-4af4-b182-bc82183ae103</guid>
+            <pubDate>Wed, 03 Aug 2016 10:01:27 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
