@@ -4,11 +4,18 @@
         <description><![CDATA[Demo Blog]]></description>
         <link>https://thegrid.ai/demo-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 16:03:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 16:36:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/demo-blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Data Validation With Core Data: Advanced Constraints]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7e34336-512c-4f1a-a03e-5b170ee123a2.jpg">]]></description>
+            <link>http://code.tutsplus.com/tutorials/data-validation-with-core-data-advanced-constraints--cms-26623</link>
+            <guid isPermaLink="false">3949a95f-d90d-4b2b-861f-ec5df21e2ac0</guid>
+            <pubDate>Fri, 05 Aug 2016 16:36:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Will Smith's Awesome Tonight Show Entrance]]></title>
-            <description><![CDATA[<article><h1>Will Smith's Awesome Tonight Show Entrance</h1><p>Will Smith tries out different entrances until he lands on the perfect one.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Will Smith's Awesome Tonight Show Entrance</h1><p>Will Smith tries out different entrances until he lands on the perfect one.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/70c13da3d9a3e59934992e9254a30bed/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fw74Zjj47HzI%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=w74Zjj47HzI</link>
             <guid isPermaLink="false">c0e1af91-3ba5-41b8-aa41-ee152926e67b</guid>
             <pubDate>Fri, 05 Aug 2016 16:02:20 GMT</pubDate>
