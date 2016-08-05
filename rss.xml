@@ -4,8 +4,15 @@
         <description><![CDATA[Demo Blog]]></description>
         <link>https://thegrid.ai/demo-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 15:59:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 16:00:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/demo-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Family Guy funniest moments 11]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fuf2-5uDEkS8%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Duf2-5uDEkS8&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fuf2-5uDEkS8%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=uf2-5uDEkS8</link>
+            <guid isPermaLink="false">036cd8d4-460b-4424-96fc-f44811d8f50f</guid>
+            <pubDate>Fri, 05 Aug 2016 15:59:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Data Validation With Core Data: Advanced Constraints]]></title>
             <description><![CDATA[<article><h1>Data Validation With Core Data: Advanced Constraints</h1><p>In the previous tutorial, you learned how to define common constraints in the data model. In this tutorial, I show you how you can define more advanced constraints in code. Download the project we created in the previous tutorial from GitHub and open it in Xcode.</p></article>]]></description>
