@@ -4,8 +4,15 @@
         <description><![CDATA[Demo Blog]]></description>
         <link>https://thegrid.ai/demo-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 16:46:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 16:46:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/demo-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Taking Control of the tvOS Focus Engine]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/409aebfd-f690-4b26-bf93-cdaae7f0894b.jpg">]]></description>
+            <link>http://code.tutsplus.com/tutorials/taking-control-of-the-tvos-focus-engine--cms-26572</link>
+            <guid isPermaLink="false">3a9d7a52-9f7b-4d62-b3fd-a9e3ea0c3bd8</guid>
+            <pubDate>Fri, 05 Aug 2016 16:46:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[SpriteKit From Scratch: Advanced Techniques and Optimizations]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3f9a4805-97f6-41f7-8374-a14dcba15be6.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=vBecM3CQVD8</link>
             <guid isPermaLink="false">305e6068-dfac-46dc-8281-81dc4d351a46</guid>
             <pubDate>Wed, 03 Aug 2016 17:16:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Apple Challenges Government Demand To Crack Drug Dealer's iPhone In New York]]></title>
-            <description><![CDATA[<article><h1>Apple Challenges Government Demand To Crack Drug Dealer's iPhone In New York</h1><p>Apple has formally challenged the U.S. Department of Justice over another locked iPhone and the encrypted information it contains. Owned by an accused methamphetamine distributor in Brooklyn, the iPhone 5s is believed to contain evidence of a drug conspiracy, investigators said. The government claims that its technicians can't penetrate the locked iPhone and require Apple's help to get inside.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e2b247bd692aae20a13780b947564a437b6201a.jpg"></article>]]></description>
-            <link>http://www.buzzfeed.com/hamzashaban/apple-challenges-government-demand-to-crack-drug-dealers-iph#.lyz519Bpy</link>
-            <guid isPermaLink="false">04efbf8e-2a9b-405d-a302-7922f85b61b3</guid>
-            <pubDate>Wed, 03 Aug 2016 10:01:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
