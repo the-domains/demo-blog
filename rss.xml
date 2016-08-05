@@ -4,8 +4,15 @@
         <description><![CDATA[Demo Blog]]></description>
         <link>https://thegrid.ai/demo-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 16:36:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 16:46:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/demo-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to Secure an iOS App]]></title>
+            <description><![CDATA[<article><h1>How to Secure an iOS App</h1><p>Security is a key aspect of software development. Almost every mobile application deals with user information or communicates with a remote server. Even though security has improved dramatically over the past decades, it continues to be a hotly debated topic. In this article, I would like to highlight a number of topics that are related to security and mobile development.</p></article>]]></description>
+            <link>http://code.tutsplus.com/articles/how-to-secure-an-ios-app--cms-26533</link>
+            <guid isPermaLink="false">887f40ff-b447-4b17-8195-374112a5d17a</guid>
+            <pubDate>Fri, 05 Aug 2016 16:46:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Data Validation With Core Data: Advanced Constraints]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7e34336-512c-4f1a-a03e-5b170ee123a2.jpg">]]></description>
