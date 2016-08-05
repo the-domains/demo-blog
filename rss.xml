@@ -4,11 +4,18 @@
         <description><![CDATA[Demo Blog]]></description>
         <link>https://thegrid.ai/demo-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 16:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 16:01:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/demo-blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Jinx Challenge with Margot Robbie]]></title>
+            <description><![CDATA[<article><h1>Jinx Challenge with Margot Robbie</h1><p>Jimmy and Margot draw random categories then try to shout out the same word at the same time to jinx each other.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=GaQcnR_9eVU</link>
+            <guid isPermaLink="false">0b9ee0a9-654c-45e0-a3a8-2eae01832579</guid>
+            <pubDate>Fri, 05 Aug 2016 16:00:28 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Family Guy funniest moments 11]]></title>
-            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2Fuf2-5uDEkS8%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Duf2-5uDEkS8&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2Fuf2-5uDEkS8%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <description><![CDATA[<article><h1>Family Guy funniest moments 11</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c68237642e24f11633f6a120ecb2a747/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fuf2-5uDEkS8%2Fhqdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=uf2-5uDEkS8</link>
             <guid isPermaLink="false">036cd8d4-460b-4424-96fc-f44811d8f50f</guid>
             <pubDate>Fri, 05 Aug 2016 15:59:52 GMT</pubDate>
