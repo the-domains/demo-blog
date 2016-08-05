@@ -4,8 +4,15 @@
         <description><![CDATA[Demo Blog]]></description>
         <link>https://thegrid.ai/demo-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 17:16:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 15:59:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/demo-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Data Validation With Core Data: Advanced Constraints]]></title>
+            <description><![CDATA[<article><h1>Data Validation With Core Data: Advanced Constraints</h1><p>In the previous tutorial, you learned how to define common constraints in the data model. In this tutorial, I show you how you can define more advanced constraints in code. Download the project we created in the previous tutorial from GitHub and open it in Xcode.</p></article>]]></description>
+            <link>http://code.tutsplus.com/tutorials/data-validation-with-core-data-advanced-constraints--cms-26623</link>
+            <guid isPermaLink="false">2bb7104b-dbac-4270-962d-0bc99eff0275</guid>
+            <pubDate>Fri, 05 Aug 2016 15:59:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Tango with Lions ~ In a Bar]]></title>
             <description><![CDATA[<article><h1>Tango with Lions ~ In a Bar</h1><p>'' Tango with Lions are the project of singer/song-writer Kat, and were originally conceived in 2006 after the musical dressing of diaries, photos and book-reading influences. A band was officially formed during a summer-time jam in 2007, in a beach house with former members Johniethin and Dana.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6093a1fb0f01575c10adfe49ea2a3675/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FIhqqZN0H7CI%2Fhqdefault.jpg"></article>]]></description>
