@@ -4,8 +4,15 @@
         <description><![CDATA[Demo Blog]]></description>
         <link>https://thegrid.ai/demo-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 21:42:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 21:46:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/demo-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Taking Control of the tvOS Focus Engine]]></title>
+            <description><![CDATA[<article><h1>Taking Control of the tvOS Focus Engine</h1><p>On iOS, users normally interact with your apps via the device's touch screen. On tvOS, however, user interaction is handled by moving the current focus between views on the screen. Luckily, the tvOS implementations of the UIKit APIs handle the changing of focus between views automatically.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4304c6ef-b7ce-4b7d-ad55-db5e5405ca1f.jpg"></article>]]></description>
+            <link>http://code.tutsplus.com/tutorials/taking-control-of-the-tvos-focus-engine--cms-26572</link>
+            <guid isPermaLink="false">3a9d7a52-9f7b-4d62-b3fd-a9e3ea0c3bd8</guid>
+            <pubDate>Mon, 08 Aug 2016 21:45:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Snapchat is doomed if it doesn't change soon]]></title>
             <description><![CDATA[<article><h1>Why Snapchat is doomed if it doesn't change soon</h1><p>With last week's launch of Instagram Stories, there's no question who Facebook's trying to put out of business. It's not the first time they're taking aim at Snapchat, but it's definitely the one that will have the heaviest impact.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e37a92e3728427e94a8cd711a1174920/croprotate.jpg?cropheight=800&cropwidth=1554&degrees=0&input=http%3A%2F%2Fcdn1.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2016%2F08%2Ftest.jpg&x=24&y=0"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>What Mr. Robot's Rami Malek Really Snorts in Those Morphine Scenes</h1><p>Rami Malek has a whole system for his character's drug scenes. " Subscribe to Late Night: http://bit.ly/LateNightSeth " Get more Late Night with Seth Meyers: http://www.nbc.com/late-night-with-seth-meyers/ " Watch Late Night with Seth Meyers Weeknights 12:35/11:35c on NBC.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/13fa78e08cc80c83c61b0b9c2aa05b86/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FJqONvYXC_MQ%2Fmaxresdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=JqONvYXC_MQ</link>
             <guid isPermaLink="false">72da0704-b564-4820-ac8c-4e7cd69f6cf9</guid>
-            <pubDate>Sun, 07 Aug 2016 17:24:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Smith's Awesome Tonight Show Entrance]]></title>
-            <description><![CDATA[<article><h1>Will Smith's Awesome Tonight Show Entrance</h1><p>Will Smith tries out different entrances until he lands on the perfect one.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/70c13da3d9a3e59934992e9254a30bed/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fw74Zjj47HzI%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=w74Zjj47HzI</link>
-            <guid isPermaLink="false">c0e1af91-3ba5-41b8-aa41-ee152926e67b</guid>
             <pubDate>Sun, 07 Aug 2016 17:24:27 GMT</pubDate>
         </item>
     </channel>
