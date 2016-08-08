@@ -2,16 +2,79 @@
     <channel>
         <title><![CDATA[Demo Blog]]></title>
         <description><![CDATA[Demo Blog]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/demo-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 22:04:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 08 Aug 2016 22:05:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/demo-blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[The world's first VR camera satellite launches next summer]]></title>
-            <description><![CDATA[<article><h1>The world's first VR camera satellite launches next summer</h1><p>SpaceVR has signed a launch agreement to send its virtual reality satellite to the International Space Station using a SpaceX Falcon 9 rocket in 2017. The small startup has contracted NanoRacks - a company that runs the commercial laboratory aboard the International Space Station - to prepare Overview 1, SpaceVR's twin-camera cube satellite, for release into low Earth orbit using NanoRacks' CubeSat Deployer.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c9ea6f67178c8e32074326500d2b75e1/noop.jpg?input=https%3A%2F%2Fcdn1.vox-cdn.com%2Fthumbor%2F2uPEaKwn9sIVBWbkx_39vMT1OEA%3D%2F0x0%3A3200x1800%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50322457%2FO1_-_Best.0.0.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/8/8/12404062/space-vr-virtual-reality-satellite-iss-spacex-2017-launch</link>
-            <guid isPermaLink="false">113ebd79-4d22-4325-8368-61586407b8ac</guid>
-            <pubDate>Mon, 08 Aug 2016 22:04:33 GMT</pubDate>
+            <title><![CDATA[How Brazil is trying (and failing) to keep drones away from the Olympics]]></title>
+            <description><![CDATA[<article><h1>How Brazil is trying (and failing) to keep drones away from the Olympics</h1><p>On Friday, more than 60,000 people packed into Rio's Macarenã stadium for the opening ceremony of the 2016 Olympic Games - but above their heads, something disconcerting was happening. Observers reported as many as three drones hovering above the stadium, triggering a security panic that reached all the way to the teams providing protection for visiting heads of state.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e311e5fc95e09b3a08699e886d440f0f/noop.jpg?input=https%3A%2F%2Fcdn1.vox-cdn.com%2Fthumbor%2FZZ1xhguld-09iEvWkKBjA2l81eM%3D%2F0x362%3A5472x3440%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50320925%2F586326242.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/8/8/12402972/olympics-rio-2016-anti-drone-jamming-public-safety</link>
+            <guid isPermaLink="false">1905c973-adcb-4ff7-9429-382b9a006290</guid>
+            <pubDate>Mon, 08 Aug 2016 22:04:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Jinx Challenge with Margot Robbie]]></title>
+            <description><![CDATA[<article><h1>Jinx Challenge with Margot Robbie</h1><p>Jimmy and Margot draw random categories then try to shout out the same word at the same time to jinx each other.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f4acea7f9565cb6ef6348ea5aeb0afe4/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FGaQcnR_9eVU%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=GaQcnR_9eVU</link>
+            <guid isPermaLink="false">0b9ee0a9-654c-45e0-a3a8-2eae01832579</guid>
+            <pubDate>Mon, 08 Aug 2016 22:04:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Data Validation With Core Data: Advanced Constraints]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f7e34336-512c-4f1a-a03e-5b170ee123a2.jpg">]]></description>
+            <link>http://code.tutsplus.com/tutorials/data-validation-with-core-data-advanced-constraints--cms-26623</link>
+            <guid isPermaLink="false">3949a95f-d90d-4b2b-861f-ec5df21e2ac0</guid>
+            <pubDate>Mon, 08 Aug 2016 22:04:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[iPhone 7 rumored to include pressure-sensitive home button]]></title>
+            <description><![CDATA[<article><h1>iPhone 7 rumored to include pressure-sensitive home button</h1><p>Apple is expected to unveil its new iPhone next month, with a design that's similar to the existing iPhone 6S models. While there have been plenty of rumors over the dual-camera system, redesigned antenna lines, and removal of the headphone jack, Bloomberg News reports that the next iPhone will also include a pressure-sensitive home button.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/369bc31eb9f1c0115b6a94f5d9934bd9/noop.jpg?input=https%3A%2F%2Fcdn1.vox-cdn.com%2Fthumbor%2FhNzGk9Lc3y9WqaP4puxmWG9taf4%3D%2F0x20%3A640x380%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50318699%2Ftouch-id-iphone-5s-home.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/8/8/12401218/apple-iphone-7-home-button-rumor</link>
+            <guid isPermaLink="false">b580829d-e300-431f-a532-cbfd6cd27cc1</guid>
+            <pubDate>Mon, 08 Aug 2016 22:04:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Will Smith's Awesome Tonight Show Entrance]]></title>
+            <description><![CDATA[<article><h1>Will Smith's Awesome Tonight Show Entrance</h1><p>Will Smith tries out different entrances until he lands on the perfect one.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/70c13da3d9a3e59934992e9254a30bed/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fw74Zjj47HzI%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=w74Zjj47HzI</link>
+            <guid isPermaLink="false">c0e1af91-3ba5-41b8-aa41-ee152926e67b</guid>
+            <pubDate>Mon, 08 Aug 2016 22:04:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sony's upgraded PlayStation 4 will reportedly be unveiled next month]]></title>
+            <description><![CDATA[<article><h1>Sony's upgraded PlayStation 4 will reportedly be unveiled next month</h1><p>Sony plans to unveil a 4K version of its PlayStation 4 next month, according to Vice Gaming . The machine will reportedly be announced on September 7th, during an event that'll serve as a "technical showcase" for what the updated PS4 can do.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7ee1252343cca3e54d16e4354c74ffa6/noop.jpg?input=https%3A%2F%2Fcdn3.vox-cdn.com%2Fthumbor%2FvRVDGV0KllLBZH9TeEnAXw8hNhk%3D%2F0x15%3A1024x591%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50321171%2Fps4.0.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/8/8/12403198/sony-playstation-4-4k-event-september-report</link>
+            <guid isPermaLink="false">fd8f1107-abb0-44a2-b6f9-24e00c8a09da</guid>
+            <pubDate>Mon, 08 Aug 2016 22:04:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Family Guy funniest moments 11]]></title>
+            <description><![CDATA[<article><h1>Family Guy funniest moments 11</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c68237642e24f11633f6a120ecb2a747/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fuf2-5uDEkS8%2Fhqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=uf2-5uDEkS8</link>
+            <guid isPermaLink="false">036cd8d4-460b-4424-96fc-f44811d8f50f</guid>
+            <pubDate>Mon, 08 Aug 2016 22:04:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tango with Lions ~ In a Bar]]></title>
+            <description><![CDATA[<article><h1>Tango with Lions ~ In a Bar</h1><p>'' Tango with Lions are the project of singer/song-writer Kat, and were originally conceived in 2006 after the musical dressing of diaries, photos and book-reading influences. A band was officially formed during a summer-time jam in 2007, in a beach house with former members Johniethin and Dana.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6093a1fb0f01575c10adfe49ea2a3675/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FIhqqZN0H7CI%2Fhqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=IhqqZN0H7CI</link>
+            <guid isPermaLink="false">16ddc1ae-cbb9-4003-8532-011eee33cf3a</guid>
+            <pubDate>Mon, 08 Aug 2016 22:04:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=http%3A%2F%2Fwww.youtube.com%2Fembed%2FvBecM3CQVD8&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DvBecM3CQVD8&image=http%3A%2F%2Fi.ytimg.com%2Fvi%2FvBecM3CQVD8%2Fhqdefault.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://www.youtube.com/watch?v=vBecM3CQVD8</link>
+            <guid isPermaLink="false">305e6068-dfac-46dc-8281-81dc4d351a46</guid>
+            <pubDate>Mon, 08 Aug 2016 22:04:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What Mr. Robot's Rami Malek Really Snorts in Those Morphine Scenes]]></title>
+            <description><![CDATA[<article><h1>What Mr. Robot's Rami Malek Really Snorts in Those Morphine Scenes</h1><p>Rami Malek has a whole system for his character's drug scenes. " Subscribe to Late Night: http://bit.ly/LateNightSeth " Get more Late Night with Seth Meyers: http://www.nbc.com/late-night-with-seth-meyers/ " Watch Late Night with Seth Meyers Weeknights 12:35/11:35c on NBC.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/13fa78e08cc80c83c61b0b9c2aa05b86/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FJqONvYXC_MQ%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=JqONvYXC_MQ</link>
+            <guid isPermaLink="false">72da0704-b564-4820-ac8c-4e7cd69f6cf9</guid>
+            <pubDate>Mon, 08 Aug 2016 22:04:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
