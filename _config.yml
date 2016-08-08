@@ -1,14 +1,14 @@
 layout_spectrum: 0.4435391773004085
-typography_spectrum: 0.9032969505060464
+typography_spectrum: 0.22509071556851268
 color:
-  brandStrength: 0.4370268869679421
-  lightness: 0.5698063473682851
-  saturation: 0.5006678812205791
-  rhythmicContrast: 0.9867453796323389
+  brandStrength: 0.38855502428486943
+  lightness: 0.6149040225427598
+  saturation: 0.7301198227796704
+  rhythmicContrast: 0.19305716012604535
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
+    - '#63A69F'
+    - '#F2E1AC'
+    - '#F2836B'
+    - '#F2594B'
+    - '#CD2C24'
 name: Demo Blog
