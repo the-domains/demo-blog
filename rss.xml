@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Demo Blog]]></title>
+        <description><![CDATA[Demo Blog]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 08 Aug 2016 22:04:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The world's first VR camera satellite launches next summer]]></title>
+            <description><![CDATA[<article><h1>The world's first VR camera satellite launches next summer</h1><p>SpaceVR has signed a launch agreement to send its virtual reality satellite to the International Space Station using a SpaceX Falcon 9 rocket in 2017. The small startup has contracted NanoRacks - a company that runs the commercial laboratory aboard the International Space Station - to prepare Overview 1, SpaceVR's twin-camera cube satellite, for release into low Earth orbit using NanoRacks' CubeSat Deployer.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c9ea6f67178c8e32074326500d2b75e1/noop.jpg?input=https%3A%2F%2Fcdn1.vox-cdn.com%2Fthumbor%2F2uPEaKwn9sIVBWbkx_39vMT1OEA%3D%2F0x0%3A3200x1800%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50322457%2FO1_-_Best.0.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/8/8/12404062/space-vr-virtual-reality-satellite-iss-spacex-2017-launch</link>
+            <guid isPermaLink="false">113ebd79-4d22-4325-8368-61586407b8ac</guid>
+            <pubDate>Mon, 08 Aug 2016 22:04:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
