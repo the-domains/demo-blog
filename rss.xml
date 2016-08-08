@@ -4,8 +4,15 @@
         <description><![CDATA[Demo Blog]]></description>
         <link>https://thegrid.ai/demo-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 21:46:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2016 21:47:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/demo-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The world's first VR camera satellite launches next summer]]></title>
+            <description><![CDATA[<article><h1>The world's first VR camera satellite launches next summer</h1><p>SpaceVR has signed a launch agreement to send its virtual reality satellite to the International Space Station using a SpaceX Falcon 9 rocket in 2017. The small startup has contracted NanoRacks - a company that runs the commercial laboratory aboard the International Space Station - to prepare Overview 1, SpaceVR's twin-camera cube satellite, for release into low Earth orbit using NanoRacks' CubeSat Deployer.</p><img src="https://cdn1.vox-cdn.com/thumbor/2uPEaKwn9sIVBWbkx_39vMT1OEA=/0x0:3200x1800/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/50322457/O1_-_Best.0.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/8/8/12404062/space-vr-virtual-reality-satellite-iss-spacex-2017-launch</link>
+            <guid isPermaLink="false">113ebd79-4d22-4325-8368-61586407b8ac</guid>
+            <pubDate>Mon, 08 Aug 2016 21:47:23 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Editing Images in CSS: Blend Modes]]></title>
             <description><![CDATA[<article><h1>Editing Images in CSS: Blend Modes</h1><p>In the previous tutorial of this series we discussed how to use CSS filters to edit images. While filters can produce great results, they are limited to just a single layer. Let's say you have an image and you want to overlay it with red color. You can't do that with filters.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://www.theverge.com/2016/8/8/12404970/nasa-hdr-camera-rocket-boosters-test-watch</link>
             <guid isPermaLink="false">89eb9312-ef2b-4795-ba37-9bda725555a1</guid>
             <pubDate>Mon, 08 Aug 2016 21:39:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How Brazil is trying (and failing) to keep drones away from the Olympics]]></title>
-            <description><![CDATA[<article><h1>How Brazil is trying (and failing) to keep drones away from the Olympics</h1><p>On Friday, more than 60,000 people packed into Rio's Macarenã stadium for the opening ceremony of the 2016 Olympic Games - but above their heads, something disconcerting was happening. Observers reported as many as three drones hovering above the stadium, triggering a security panic that reached all the way to the teams providing protection for visiting heads of state.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e311e5fc95e09b3a08699e886d440f0f/noop.jpg?input=https%3A%2F%2Fcdn1.vox-cdn.com%2Fthumbor%2FZZ1xhguld-09iEvWkKBjA2l81eM%3D%2F0x362%3A5472x3440%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50320925%2F586326242.0.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/8/8/12402972/olympics-rio-2016-anti-drone-jamming-public-safety</link>
-            <guid isPermaLink="false">1905c973-adcb-4ff7-9429-382b9a006290</guid>
-            <pubDate>Mon, 08 Aug 2016 21:37:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
