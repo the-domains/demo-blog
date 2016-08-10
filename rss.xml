@@ -4,8 +4,15 @@
         <description><![CDATA[Demo Blog]]></description>
         <link>https://thegrid.ai/demo-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 08 Aug 2016 22:33:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 20:00:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/demo-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[NASA's new camera makes rocket engines look like Hollywood CGI]]></title>
+            <description><![CDATA[<article><h1>NASA's new camera makes rocket engines look like Hollywood CGI</h1><p>NASA has created a camera that can film slow motion footage of booming rocket engines with higher dynamic range than ever before. It's called the High Dynamic Range Stereo X camera, or HiDyRS-X, and late last week the agency released some of its footage to the public for the first time.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/5ac89b24a402de4df573c0e9b4093982/noop.gif?input=https%3A%2F%2Fcdn3.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F6908909%2Fnasa.0.gif"></article>]]></description>
+            <link>http://www.theverge.com/2016/8/8/12404970/nasa-hdr-camera-rocket-boosters-test-watch</link>
+            <guid isPermaLink="false">89eb9312-ef2b-4795-ba37-9bda725555a1</guid>
+            <pubDate>Wed, 10 Aug 2016 20:00:01 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How Brazil is trying (and failing) to keep drones away from the Olympics]]></title>
             <description><![CDATA[<article><h1>How Brazil is trying (and failing) to keep drones away from the Olympics</h1><p>On Friday, more than 60,000 people packed into Rio's Macarenã stadium for the opening ceremony of the 2016 Olympic Games - but above their heads, something disconcerting was happening. Observers reported as many as three drones hovering above the stadium, triggering a security panic that reached all the way to the teams providing protection for visiting heads of state.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e311e5fc95e09b3a08699e886d440f0f/noop.jpg?input=https%3A%2F%2Fcdn1.vox-cdn.com%2Fthumbor%2FZZ1xhguld-09iEvWkKBjA2l81eM%3D%2F0x362%3A5472x3440%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50320925%2F586326242.0.jpg"></article>]]></description>
