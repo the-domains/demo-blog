@@ -4,8 +4,15 @@
         <description><![CDATA[Demo Blog]]></description>
         <link>https://thegrid.ai/demo-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 21:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2016 21:23:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/demo-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://p.fod4.com/p/media/bfac1318ce/bwTSO7UcRbm5qcHGFWNQ_Double%20Bottle%20Flip.gif"></article>]]></description>
+            <link>http://p.fod4.com/p/media/bfac1318ce/bwTSO7UcRbm5qcHGFWNQ_Double%20Bottle%20Flip.gif</link>
+            <guid isPermaLink="false">52dad237-0877-46fb-acbd-c13c48628ca5</guid>
+            <pubDate>Wed, 10 Aug 2016 21:23:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Are These The 43 Funniest GIFs Of All Time?]]></title>
             <description><![CDATA[<article><h1>Are These The 43 Funniest GIFs Of All Time?</h1><p>As chosen by Reddit.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/78b64c45aba92302d2b71dd53dd702d7/noop.jpg?input=https%3A%2F%2Fimg.buzzfeed.com%2Fbuzzfeed-static%2Fstatic%2F2014-07%2F22%2F5%2Fcampaign_images%2Fwebdr04%2Fare-these-the-43-funniest-gifs-of-all-time-2-28004-1406020672-0_dblbig.jpg"></article>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Tango with Lions ~ In a Bar</h1><p>'' Tango with Lions are the project of singer/song-writer Kat, and were originally conceived in 2006 after the musical dressing of diaries, photos and book-reading influences. A band was officially formed during a summer-time jam in 2007, in a beach house with former members Johniethin and Dana.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6093a1fb0f01575c10adfe49ea2a3675/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FIhqqZN0H7CI%2Fhqdefault.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=IhqqZN0H7CI</link>
             <guid isPermaLink="false">16ddc1ae-cbb9-4003-8532-011eee33cf3a</guid>
-            <pubDate>Mon, 08 Aug 2016 22:04:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sony's upgraded PlayStation 4 will reportedly be unveiled next month]]></title>
-            <description><![CDATA[<article><h1>Sony's upgraded PlayStation 4 will reportedly be unveiled next month</h1><p>Sony plans to unveil a 4K version of its PlayStation 4 next month, according to Vice Gaming . The machine will reportedly be announced on September 7th, during an event that'll serve as a "technical showcase" for what the updated PS4 can do.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7ee1252343cca3e54d16e4354c74ffa6/noop.jpg?input=https%3A%2F%2Fcdn3.vox-cdn.com%2Fthumbor%2FvRVDGV0KllLBZH9TeEnAXw8hNhk%3D%2F0x15%3A1024x591%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50321171%2Fps4.0.0.jpg"></article>]]></description>
-            <link>http://www.theverge.com/2016/8/8/12403198/sony-playstation-4-4k-event-september-report</link>
-            <guid isPermaLink="false">fd8f1107-abb0-44a2-b6f9-24e00c8a09da</guid>
             <pubDate>Mon, 08 Aug 2016 22:04:48 GMT</pubDate>
         </item>
     </channel>
