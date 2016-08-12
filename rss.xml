@@ -4,8 +4,15 @@
         <description><![CDATA[Demo Blog]]></description>
         <link>https://thegrid.ai/demo-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Aug 2016 21:55:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 18:24:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/demo-blog/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No Man's Sky travel diary, day four: living off the land]]></title>
+            <description><![CDATA[<article><h1>No Man's Sky travel diary, day four: living off the land</h1><p>No Man's Sky is an almost impossibly huge game, an entire virtual universe filled with 18 quintillion planets, each one different from the next thanks to the powers of procedural generation.</p><img src="https://cdn0.vox-cdn.com/thumbor/5GVWzcHQQS6zV0VHsyuEIKF8Ci8=/cdn0.vox-cdn.com/uploads/chorus_asset/file/6926901/No_Man_s_Sky_20160810234429.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/8/12/12444920/no-mans-sky-travel-journal-day-four-ps4-pc</link>
+            <guid isPermaLink="false">8ccfc1d1-3625-4cef-b2f4-b031e7401dd2</guid>
+            <pubDate>Fri, 12 Aug 2016 18:23:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Happy GIF - Find & Share on GIPHY]]></title>
             <link>http://giphy.com/gifs/dancing-happy-smiling-b5LTssxCLpvVe</link>
@@ -66,13 +73,6 @@
             <description><![CDATA[<article><h1>iPhone 7 rumored to include pressure-sensitive home button</h1><p>Apple is expected to unveil its new iPhone next month, with a design that's similar to the existing iPhone 6S models. While there have been plenty of rumors over the dual-camera system, redesigned antenna lines, and removal of the headphone jack, Bloomberg News reports that the next iPhone will also include a pressure-sensitive home button.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/369bc31eb9f1c0115b6a94f5d9934bd9/noop.jpg?input=https%3A%2F%2Fcdn1.vox-cdn.com%2Fthumbor%2FhNzGk9Lc3y9WqaP4puxmWG9taf4%3D%2F0x20%3A640x380%2F1600x900%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50318699%2Ftouch-id-iphone-5s-home.0.jpg"></article>]]></description>
             <link>http://www.theverge.com/2016/8/8/12401218/apple-iphone-7-home-button-rumor</link>
             <guid isPermaLink="false">b580829d-e300-431f-a532-cbfd6cd27cc1</guid>
-            <pubDate>Mon, 08 Aug 2016 22:04:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Will Smith's Awesome Tonight Show Entrance]]></title>
-            <description><![CDATA[<article><h1>Will Smith's Awesome Tonight Show Entrance</h1><p>Will Smith tries out different entrances until he lands on the perfect one.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/70c13da3d9a3e59934992e9254a30bed/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fw74Zjj47HzI%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=w74Zjj47HzI</link>
-            <guid isPermaLink="false">c0e1af91-3ba5-41b8-aa41-ee152926e67b</guid>
             <pubDate>Mon, 08 Aug 2016 22:04:48 GMT</pubDate>
         </item>
     </channel>
