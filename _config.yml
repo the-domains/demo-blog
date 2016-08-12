@@ -1,4 +1,3 @@
-layout_spectrum: 0.4435391773004085
 typography_spectrum: 0.22509071556851268
 color:
   brandStrength: 0.38855502428486943
@@ -11,4 +10,6 @@ color:
     - '#F2836B'
     - '#F2594B'
     - '#CD2C24'
+layout_spectrum: 0.4435391773004085
 name: Demo Blog
+title: The Demo Blo
