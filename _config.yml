@@ -11,8 +11,7 @@ color:
     - '#F2594B'
     - '#CD2C24'
 layout_spectrum: 0.4435391773004085
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/109a287a-98f2-4ca6-829a-6a84a301969a.jpg
+logo: null
 name: Demo Blog
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd674c93-780b-4554-b042-29bd836b32e0.png
