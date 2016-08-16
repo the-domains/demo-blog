@@ -13,7 +13,6 @@ color:
 layout_spectrum: 0.4435391773004085
 logo: null
 name: Demo Blog
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bd674c93-780b-4554-b042-29bd836b32e0.png
+favicon: null
 title: The Demo Blog
 description: Just for test case
