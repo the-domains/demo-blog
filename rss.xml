@@ -1,23 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Demo Blog]]></title>
-        <description><![CDATA[Demo Blog]]></description>
+        <title><![CDATA[The Demo Blog]]></title>
+        <description><![CDATA[The Demo Blog]]></description>
         <link>https://thegrid.ai/demo-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 18:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2016 08:22:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/demo-blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No Man's Sky travel diary, day four: living off the land]]></title>
-            <description><![CDATA[<article><h1>No Man's Sky travel diary, day four: living off the land</h1><p>No Man's Sky is an almost impossibly huge game, an entire virtual universe filled with 18 quintillion planets, each one different from the next thanks to the powers of procedural generation.</p><img src="https://cdn0.vox-cdn.com/thumbor/5GVWzcHQQS6zV0VHsyuEIKF8Ci8=/cdn0.vox-cdn.com/uploads/chorus_asset/file/6926901/No_Man_s_Sky_20160810234429.0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>No Man's Sky travel diary, day four: living off the land</h1><p>No Man's Sky is an almost impossibly huge game, an entire virtual universe filled with 18 quintillion planets, each one different from the next thanks to the powers of procedural generation.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/c74bca5c698d2639f53b26bcfba8367a/noop.jpg?input=https%3A%2F%2Fcdn0.vox-cdn.com%2Fthumbor%2F5GVWzcHQQS6zV0VHsyuEIKF8Ci8%3D%2Fcdn0.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F6926901%2FNo_Man_s_Sky_20160810234429.0.jpg"></article>]]></description>
             <link>http://www.theverge.com/2016/8/12/12444920/no-mans-sky-travel-journal-day-four-ps4-pc</link>
             <guid isPermaLink="false">8ccfc1d1-3625-4cef-b2f4-b031e7401dd2</guid>
             <pubDate>Fri, 12 Aug 2016 18:23:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Happy GIF - Find & Share on GIPHY]]></title>
-            <link>http://giphy.com/gifs/dancing-happy-smiling-b5LTssxCLpvVe</link>
-            <guid isPermaLink="false">745270f8-4f49-4e12-aaa9-2acc5b139b88</guid>
-            <pubDate>Wed, 10 Aug 2016 21:55:37 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Movie GIF - Find & Share on GIPHY]]></title>
